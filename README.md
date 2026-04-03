@@ -78,8 +78,7 @@ I've shipped real production apps: a full delivery platform with payment integra
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pe-eli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe-eli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&langs_count=6" />
+
 
 <br/>
 
