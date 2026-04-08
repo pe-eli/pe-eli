@@ -27,7 +27,7 @@ I've shipped real production apps: a full delivery platform with payment integra
 
 - 🌍 Based in Brazil — **open to relocation to Europe**
 - 💬 Fluent in **English** and **Portuguese**
-- 🚀 Currently deepening my skills in **Next.js** and **testing with Vitest/RTL**
+- 🚀 Currently deepening my skills in **n8n, process automation** and **AI integration**
 - 🎯 Looking for my first **professional frontend opportunity**
 
 ---
