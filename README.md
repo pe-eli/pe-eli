@@ -66,8 +66,8 @@ I've shipped real production apps: a full delivery platform with payment integra
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🛵 **Di Mouras Delivery** | Full production delivery platform with responsive UI and Mercado Pago payment integration | React · TypeScript · Express · Firebase | [dimouras.com.br](https://www.dimouras.com.br) |
-| 🏢 **Prottocode Website** | Institutional website focused on conversion and lead generation | React · TypeScript · Vercel · EmailJS | [prottocode.com.br](https://www.prottocode.com.br) |
+| **Di Mouras Web Site** | Full production delivery platform with responsive UI and Mercado Pago payment integration | React · TypeScript · Express · Firebase | [dimouras.com.br](https://www.dimouras.com.br) |
+| **Prottocode Website** | Institutional website focused on conversion and lead generation | React · TypeScript · Vercel · EmailJS | [prottocode.com.br](https://www.prottocode.com.br) |
 
 </div>
 
