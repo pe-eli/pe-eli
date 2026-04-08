@@ -12,7 +12,6 @@
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--moura--plse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-moura-plse/)
-[![GitHub](https://img.shields.io/badge/GitHub-pe--eli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pe-eli)
 [![Email](https://img.shields.io/badge/Email-p.mouuraa05-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.mouuraa05@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live%20Project-dimouras.com.br-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dimouras.com.br)
 
